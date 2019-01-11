@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "version": "0.2.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Danjali/Javascript_Basic"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint JS "
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.12.0"
+  }
+}
