@@ -1,8 +1,7 @@
-
-// without es6
+// function without es6
 function add(a, b) {
-  return a + b;
-};
+    return a + b;
+}
 add(2,40);
 
 // with es6
